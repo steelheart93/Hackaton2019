@@ -1,0 +1,14 @@
+D:\Documentos\Desktop\DaVueltasFin\DaVueltasFin\bin\Debug\netcoreapp2.1\DaVueltasFin.deps.json
+D:\Documentos\Desktop\DaVueltasFin\DaVueltasFin\bin\Debug\netcoreapp2.1\DaVueltasFin.runtimeconfig.json
+D:\Documentos\Desktop\DaVueltasFin\DaVueltasFin\bin\Debug\netcoreapp2.1\DaVueltasFin.runtimeconfig.dev.json
+D:\Documentos\Desktop\DaVueltasFin\DaVueltasFin\bin\Debug\netcoreapp2.1\DaVueltasFin.dll
+D:\Documentos\Desktop\DaVueltasFin\DaVueltasFin\bin\Debug\netcoreapp2.1\DaVueltasFin.pdb
+D:\Documentos\Desktop\DaVueltasFin\DaVueltasFin\obj\Debug\netcoreapp2.1\DaVueltasFin.csprojAssemblyReference.cache
+D:\Documentos\Desktop\DaVueltasFin\DaVueltasFin\obj\Debug\netcoreapp2.1\DaVueltasFin.csproj.CoreCompileInputs.cache
+D:\Documentos\Desktop\DaVueltasFin\DaVueltasFin\obj\Debug\netcoreapp2.1\DaVueltasFin.RazorAssemblyInfo.cache
+D:\Documentos\Desktop\DaVueltasFin\DaVueltasFin\obj\Debug\netcoreapp2.1\DaVueltasFin.RazorAssemblyInfo.cs
+D:\Documentos\Desktop\DaVueltasFin\DaVueltasFin\obj\Debug\netcoreapp2.1\DaVueltasFin.AssemblyInfoInputs.cache
+D:\Documentos\Desktop\DaVueltasFin\DaVueltasFin\obj\Debug\netcoreapp2.1\DaVueltasFin.AssemblyInfo.cs
+D:\Documentos\Desktop\DaVueltasFin\DaVueltasFin\obj\Debug\netcoreapp2.1\DaVueltasFin.RazorTargetAssemblyInfo.cache
+D:\Documentos\Desktop\DaVueltasFin\DaVueltasFin\obj\Debug\netcoreapp2.1\DaVueltasFin.dll
+D:\Documentos\Desktop\DaVueltasFin\DaVueltasFin\obj\Debug\netcoreapp2.1\DaVueltasFin.pdb

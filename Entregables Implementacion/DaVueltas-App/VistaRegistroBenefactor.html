@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>DaVueltas-App</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="img/logo.png" type="image/png">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/Bootstrap.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="css/EstiloRegistroDonativo.css" />
+    <script src="js/JQuery.js"></script>
+    <script src="js/ModeloDaVueltasApp.js"></script>
+    <script src="js/ControladoraDaVueltasApp.js"></script>
+    <script src="js/Validaciones.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <br>
+        <h1>DaVueltas-App</h1>
+        <hr style="border-color: whitesmoke">
+
+        <form id="formulario">
+            <div class="form-group">
+                <label for="documento">Documento</label>
+                <input type="text" class="form-control" name="documento" placeholder="Documento" id="documento">
+            </div>
+            <button type="button" class="btn btn-warning" id="continuarDocumento" onClick="validarDocumento()">Continuar</button><br>
+            <div class="form-group">
+                <label for="nombre">Nombre</label>
+                <input type="text" class="form-control" name="nombre" placeholder="Nombre">
+            </div>
+            <div class="form-group">
+                <label for="apellido">Apellido</label>
+                <input type="text" class="form-control" name="apellido" placeholder="Apellido">
+            </div>
+            <div class="form-group">
+                <label for="Redondeo">Redondeo</label>
+                <select>
+                    <option value="100">100</option>
+                    <option value="1000">1000</option>
+                </select>
+            </div>
+            <div class="form-group" id="tarjetas">
+                <label for="tarjeta1">Tarjeta</label>
+                <input type="text" class="form-control" name="tarjeta1" placeholder="Tarjeta de crédito o débito" class="tarjeta">
+            </div>
+            <button type="button" class="btn btn-warning" id="agregarTarjeta" onClick="addTarjeta()">Agregar otra tarjeta</button>
+            <button type="button" class="btn btn-warning" id="continuarTarjetas">Continuar</button><br>
+            <div class="form-group">
+                <input type="checkbox" id="cbox1" value="second_checkbox"> <label for="cbox1">Este es mi segundo checkbox</label><br>
+                <input type="checkbox" id="cbox2" value="second_checkbox2"> <label for="cbox2">Este es mi segundo checkbox</label><br>
+            </div>
+            <button type="button" class="btn btn-warning" id="registrar">Registrar</button>
+        </form>
+    </div>
+</body>
+
+</html>

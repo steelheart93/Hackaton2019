@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>DaVueltas-Com</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="img/logo.png" type="image/png">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/Bootstrap.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="css/EstiloRegistroDonativo.css" />
+    <script src="js/JQuery.js"></script>
+    <script src="js/ModeloRegistroDonativo.js"></script>
+    <script src="js/ControlRegistroDonativo.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <br>
+        <h1>DaVueltas-Com</h1>
+        <hr style="border-color: whitesmoke">
+
+        <form id="formulario">
+            <div class="form-group">
+                <label for="documento">Documento de Benefactor</label>
+                <input type="text" class="form-control" name="documento" placeholder="Documento de Benefactor">
+            </div>
+            <div class="form-group">
+                <label for="tarjeta">Número de Tarjeta</label>
+                <input type="text" class="form-control" name="tarjeta" placeholder="Número de Tarjeta">
+            </div>
+            <div class="form-group">
+                <label for="valor">Valor de Donación</label>
+                <div class="input-group">
+                    <span class="input-group-text">$</span>
+                    <input type="text" class="form-control" name="valor" placeholder="Valor de Donación">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="nit">NIT del Establecimiento Comercial</label>
+                <input type="text" class="form-control" name="nit" placeholder="NIT del Establecimiento">
+            </div>
+            <div class="form-group">
+                <label for="nombre">Nombre del Establecimiento Comercial</label>
+                <input type="text" class="form-control" name="nombre" placeholder="Nombre del Establecimiento">
+            </div>
+            <button type="button" class="btn btn-warning" id="registrar">Registrar</button>
+        </form>
+    </div>
+</body>
+
+</html>

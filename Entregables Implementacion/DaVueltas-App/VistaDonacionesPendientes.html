@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>DaVueltas-App</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="img/logo.png" type="image/png">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/Bootstrap.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="css/Estilos.css" />
+    <script src="js/JQuery.js"></script>
+    <script src="js/ModeloDaVueltasApp.js"></script>
+    <script src="js/ControladoraDaVueltasApp.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <br>
+        <h1>DaVueltas-App Donaciones Pendientes</h1>
+        <hr style="border-color: whitesmoke">
+
+        <form id="formulario">
+            <div class="form-group">
+                <label for="documento">Documento de Benefactor</label>
+                <input type="text" class="form-control" name="documento" placeholder="Documento de Benefactor">
+            </div>
+            <button type="button" class="btn btn-warning" id="registrar">Buscar</button>
+        </form>
+
+        <br><br><br>
+        <table class="table table-bordered table-striped table-dark">
+            <thead class="bg-danger">
+                <th>ID de la Donación</th>
+                <th>NRO de Tarjeta</th>
+                <th>Valor</th>
+                <th>NIT de AsiCa</th>
+                <th>Nombre de AsiCa</th>
+                <th>NIT de Establecimiento</th>
+                <th>Nombre de Establecimiento</th>
+            </thead>
+            <tbody id="tbody"></tbody>
+        </table>
+    </div>
+</body>
+
+</html>

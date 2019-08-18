@@ -1,0 +1,6 @@
+C:\Users\eliza\source\repos\DaVueltasAsi\DaVueltasAsi\obj\Debug\netcoreapp2.1\DaVueltasAsi.csprojAssemblyReference.cache
+C:\Users\eliza\source\repos\DaVueltasAsi\DaVueltasAsi\obj\Debug\netcoreapp2.1\DaVueltasAsi.csproj.CoreCompileInputs.cache
+C:\Users\eliza\source\repos\DaVueltasAsi\DaVueltasAsi\obj\Debug\netcoreapp2.1\DaVueltasAsi.RazorAssemblyInfo.cache
+C:\Users\eliza\source\repos\DaVueltasAsi\DaVueltasAsi\obj\Debug\netcoreapp2.1\DaVueltasAsi.RazorAssemblyInfo.cs
+C:\Users\eliza\source\repos\DaVueltasAsi\DaVueltasAsi\obj\Debug\netcoreapp2.1\DaVueltasAsi.AssemblyInfoInputs.cache
+C:\Users\eliza\source\repos\DaVueltasAsi\DaVueltasAsi\obj\Debug\netcoreapp2.1\DaVueltasAsi.AssemblyInfo.cs
